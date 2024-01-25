@@ -1,0 +1,3 @@
+To run the app open the folder with vscode.
+On terminal type: streamlit run main.py  
+make sure to install streamlit before(pip install streamlit)
