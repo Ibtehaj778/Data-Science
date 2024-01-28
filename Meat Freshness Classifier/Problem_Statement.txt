@@ -1,7 +1,0 @@
-Problem Statement: 
-  The objective is to develop a robust model capable of categorizing meat freshness into three distinct levels: fresh, partially fresh, and rotten. 
-  This endeavor seeks to address the critical need within the industry for precise and timely assessment of meat quality, mitigating potential health risks associated with consuming 
-  spoiled products. 
-  Through advanced machine learning techniques, the model aims to discern subtle indicators of degradation and spoilage, enabling stakeholders to make informed decisions regarding meat 
-  consumption and distribution. 
-  This initiative aligns with broader efforts to enhance food safety standards and ensure consumer confidence in the freshness and integrity of meat products.
