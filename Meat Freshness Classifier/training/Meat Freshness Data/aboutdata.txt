@@ -1,0 +1,6 @@
+Fresh:
+  853 images
+Half Fresh:
+  789 images
+Rotten:
+  624 images
